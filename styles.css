@@ -1,11 +1,7 @@
-*{
-    margin: 0;
-padding: 0;
-background-color: black;
-}
-.quebracabeca{
-    width: 900px;
-    height: 500px;
+
+.quebracabeca {
+    width: 900p;
+    height: 500p;
     display: flex;
 flex-wrap: wrap;
 } 
